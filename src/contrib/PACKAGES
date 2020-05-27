@@ -34,7 +34,7 @@ Imports: readr, dplyr, tibble, purrr, stringr, magrittr, memoise,
         xml2, rvest, janitor, jsonlite, reshape2
 Suggests: pkgdown, testthat
 License: MIT + file LICENSE
-MD5sum: 28013a84c06e732feb4ecae9dcd84d76
+MD5sum: 505cd0e19e096424d979775187acacf4
 NeedsCompilation: no
 
 Package: qra
