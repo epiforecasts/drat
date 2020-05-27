@@ -27,3 +27,15 @@ Suggests: knitr, rmarkdown, fabletools, tsibble,
 License: MIT + file LICENSE
 MD5sum: 439f05d5ca21672942b09058e0a38c69
 NeedsCompilation: no
+
+Package: NCoVUtils
+Version: 0.4.0
+Depends: R (>= 2.10)
+Imports: readr, dplyr, tibble, purrr, stringr, magrittr,
+      memoise, lubridate, data.table, tidyr, httr, yaml,
+      readxl, R.utils, xml2, rvest, janitor, jsonlite,
+      reshape2
+Suggests: pkgdown, testthat
+License: MIT + file LICENSE
+MD5sum: 7e308ec593c64f65803d43fefea895e6
+NeedsCompilation: no
