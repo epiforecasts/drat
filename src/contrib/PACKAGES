@@ -39,3 +39,11 @@ Suggests: pkgdown, testthat
 License: MIT + file LICENSE
 MD5sum: 7e308ec593c64f65803d43fefea895e6
 NeedsCompilation: no
+
+Package: qra
+Version: 0.0.0.9000
+Imports: dplyr, future.apply, nloptr, readr, rlang,
+      scoringutils, tidyr, tidyselect, purrr
+License: MIT + file LICENSE
+MD5sum: 6c8c34bf67aa19ddfc5e4635dc4e7643
+NeedsCompilation: no
