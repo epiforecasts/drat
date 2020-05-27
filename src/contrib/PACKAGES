@@ -19,10 +19,11 @@ Depends: R (>= 3.3.0)
 Imports: scoringutils, scoringRules, purrr, furrr, magrittr, dplyr,
         tidyr, rlang, tibble, lubridate, ggplot2, cowplot, HDInterval,
         R.utils, data.table
-Suggests: knitr, rmarkdown, fabletools, tsibble, forecastHybrid, fable,
-        bsts, feasts, future.apply, stackr, brms, tidybayes, testthat
+Suggests: knitr, rmarkdown, fabletools, tsibble, forecastHybrid,
+        forecast, fable, bsts, feasts, future.apply, stackr, brms,
+        tidybayes, testthat
 License: MIT + file LICENSE
-MD5sum: e602fc186f45e61cd5ad1185a800674b
+MD5sum: eacea2978b2e0edba077b60e26ce9d9e
 NeedsCompilation: no
 
 Package: NCoVUtils
