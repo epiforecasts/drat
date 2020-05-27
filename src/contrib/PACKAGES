@@ -22,7 +22,7 @@ Imports: scoringutils, scoringRules, purrr, furrr, magrittr, dplyr,
 Suggests: knitr, rmarkdown, fabletools, tsibble, forecastHybrid, fable,
         bsts, feasts, future.apply, stackr, brms, tidybayes, testthat
 License: MIT + file LICENSE
-MD5sum: 439f05d5ca21672942b09058e0a38c69
+MD5sum: e602fc186f45e61cd5ad1185a800674b
 NeedsCompilation: no
 
 Package: NCoVUtils
