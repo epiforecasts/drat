@@ -45,10 +45,9 @@ MD5sum: 6c8c34bf67aa19ddfc5e4635dc4e7643
 NeedsCompilation: no
 
 Package: scoringutils
-Version: 0.0.0.9000
-Imports: ggplot2 (>= 3.2.0), goftest (>= 1.2-2), scoringRules (>=
-        1.0.0), stats (>= 3.6.0)
-Suggests: testthat (>= 2.1.0), knitr, rmarkdown
+Version: 0.1.0
+Imports: ggplot2, goftest , scoringRules, stats
+Suggests: testthat, knitr, rmarkdown
 License: MIT + file LICENSE
-MD5sum: e7072b55e0befab555844ade5482c5d9
+MD5sum: c1a6a90f4945c4e37996b5dc8d914f36
 NeedsCompilation: no
