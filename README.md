@@ -7,7 +7,7 @@
 To install EpiForecast packages, you should use the {drat} package:
 
 ```r
-install.packages("drat", repos = "https://cran.rstudio.com")
+install.packages("drat")
 ```
 
 Now you can use {drat} to register the EpiForecast repository as a valid repository:
