@@ -1,0 +1,12 @@
+Package: EpiSoon
+Version: 0.3.0
+Depends: R (>= 3.3.0)
+Imports: scoringutils, scoringRules, purrr, furrr,
+      magrittr, dplyr, tidyr, rlang, tibble, lubridate,
+      ggplot2, cowplot, HDInterval, R.utils, data.table
+Suggests: knitr, rmarkdown, fabletools, tsibble,
+      forecastHybrid, fable, bsts, feasts, future.apply,
+      stackr, brms, tidybayes, testthat
+License: MIT + file LICENSE
+MD5sum: 439f05d5ca21672942b09058e0a38c69
+NeedsCompilation: no
