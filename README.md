@@ -25,7 +25,7 @@ install.packages("NoCoVUtils")
 install.packages("qra")
 ```
 
-**This repository was adapted from [here](https://github.com/R4EPI/drat). We would like to thank @zkamvar for their work implementing this approach along with the authors of `{drat}` and `{drat.builder}`.**
+**This repository was adapted from [here](https://github.com/R4EPI/drat). We would like to thank @zkamvar for their work implementing this approach along with the authors of [`{drat}`](https://github.com/eddelbuettel/drat) and [`{drat.builder}`](https://github.com/richfitz/drat.builder).**
 
 # Maintaining this page
 
