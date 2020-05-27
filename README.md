@@ -23,6 +23,7 @@ install.packages("EpiSoon")
 install.packages("EpiNow")
 install.packages("NoCoVUtils")
 install.packages("qra")
+install.packages("scoringutils")
 ```
 
 **This repository was adapted from [here](https://github.com/R4EPI/drat). We would like to thank @zkamvar for their work implementing this approach along with the authors of [`{drat}`](https://github.com/eddelbuettel/drat) and [`{drat.builder}`](https://github.com/richfitz/drat.builder).**

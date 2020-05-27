@@ -2,3 +2,4 @@ epiforecasts/EpiSoon@master
 epiforecasts/EpiNow@master
 epiforecasts/NCoVUtils@master
 epiforecasts/qra@master
+epiforecasts/scoringutils@master
