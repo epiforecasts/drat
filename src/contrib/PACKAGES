@@ -50,5 +50,5 @@ Version: 0.1.0
 Imports: ggplot2, goftest , scoringRules, stats
 Suggests: testthat, knitr, rmarkdown
 License: MIT + file LICENSE
-MD5sum: c1a6a90f4945c4e37996b5dc8d914f36
+MD5sum: 7e6132c0394d62e1573c39f815e0eac5
 NeedsCompilation: no
