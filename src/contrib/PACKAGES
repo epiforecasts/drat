@@ -8,9 +8,9 @@ Imports: EpiEstim, EpiSoon, data.table, purrr, Rcpp (>= 0.12.0), rstan
 LinkingTo: BH (>= 1.66.0), Rcpp (>= 0.12.0), RcppEigen (>= 0.3.3.3.0),
         rstan (>= 2.18.1), StanHeaders (>= 2.18.0)
 Suggests: dplyr, tidyr, knitr, kableExtra, here, magrittr, countrycode,
-        rnaturalearth, rnaturalearthdata, rnaturalearthhires
+        rnaturalearth, rnaturalearthdata
 License: MIT + file LICENSE
-MD5sum: 2e1ed5686ac4256756056868c96e1107
+MD5sum: f0d0fa1ce93825ac641de712a1811bc9
 NeedsCompilation: yes
 
 Package: EpiSoon
