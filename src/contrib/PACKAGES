@@ -1,16 +1,14 @@
 Package: EpiNow
 Version: 0.3.0
 Depends: R (>= 3.4.0)
-Imports: EpiEstim, EpiSoon, data.table, purrr, Rcpp (>=
-      0.12.0), rstan (>= 2.18.1), rstantools (>= 2.0.0),
-      methods, loo, HDInterval, future.apply, stringr,
-      lubridate, ggplot2, cowplot, patchwork, R.devices
-LinkingTo: BH (>= 1.66.0), Rcpp (>= 0.12.0), RcppEigen (>=
-      0.3.3.3.0), rstan (>= 2.18.1), StanHeaders (>=
-      2.18.0)
-Suggests: dplyr, tidyr, knitr, kableExtra, here, magrittr,
-      countrycode, rnaturalearth, rnaturalearthdata,
-      rnaturalearthhires
+Imports: EpiEstim, EpiSoon, data.table, purrr, Rcpp (>= 0.12.0), rstan
+        (>= 2.18.1), rstantools (>= 2.0.0), methods, loo, HDInterval,
+        future.apply, stringr, lubridate, ggplot2, cowplot, patchwork,
+        R.devices
+LinkingTo: BH (>= 1.66.0), Rcpp (>= 0.12.0), RcppEigen (>= 0.3.3.3.0),
+        rstan (>= 2.18.1), StanHeaders (>= 2.18.0)
+Suggests: dplyr, tidyr, knitr, kableExtra, here, magrittr, countrycode,
+        rnaturalearth, rnaturalearthdata, rnaturalearthhires
 License: MIT + file LICENSE
 MD5sum: c7db50ff812501e61aa06aecf6eb8c0b
 NeedsCompilation: yes
@@ -18,12 +16,11 @@ NeedsCompilation: yes
 Package: EpiSoon
 Version: 0.3.0
 Depends: R (>= 3.3.0)
-Imports: scoringutils, scoringRules, purrr, furrr,
-      magrittr, dplyr, tidyr, rlang, tibble, lubridate,
-      ggplot2, cowplot, HDInterval, R.utils, data.table
-Suggests: knitr, rmarkdown, fabletools, tsibble,
-      forecastHybrid, fable, bsts, feasts, future.apply,
-      stackr, brms, tidybayes, testthat
+Imports: scoringutils, scoringRules, purrr, furrr, magrittr, dplyr,
+        tidyr, rlang, tibble, lubridate, ggplot2, cowplot, HDInterval,
+        R.utils, data.table
+Suggests: knitr, rmarkdown, fabletools, tsibble, forecastHybrid, fable,
+        bsts, feasts, future.apply, stackr, brms, tidybayes, testthat
 License: MIT + file LICENSE
 MD5sum: 439f05d5ca21672942b09058e0a38c69
 NeedsCompilation: no
@@ -31,10 +28,9 @@ NeedsCompilation: no
 Package: NCoVUtils
 Version: 0.4.0
 Depends: R (>= 2.10)
-Imports: readr, dplyr, tibble, purrr, stringr, magrittr,
-      memoise, lubridate, data.table, tidyr, httr, yaml,
-      readxl, R.utils, xml2, rvest, janitor, jsonlite,
-      reshape2
+Imports: readr, dplyr, tibble, purrr, stringr, magrittr, memoise,
+        lubridate, data.table, tidyr, httr, yaml, readxl, R.utils,
+        xml2, rvest, janitor, jsonlite, reshape2
 Suggests: pkgdown, testthat
 License: MIT + file LICENSE
 MD5sum: 7e308ec593c64f65803d43fefea895e6
@@ -42,8 +38,17 @@ NeedsCompilation: no
 
 Package: qra
 Version: 0.0.0.9000
-Imports: dplyr, future.apply, nloptr, readr, rlang,
-      scoringutils, tidyr, tidyselect, purrr
+Imports: dplyr, future.apply, nloptr, readr, rlang, scoringutils,
+        tidyr, tidyselect, purrr
 License: MIT + file LICENSE
 MD5sum: 6c8c34bf67aa19ddfc5e4635dc4e7643
+NeedsCompilation: no
+
+Package: scoringutils
+Version: 0.0.0.9000
+Imports: ggplot2 (>= 3.2.0), goftest (>= 1.2-2), scoringRules (>=
+        1.0.0), stats (>= 3.6.0)
+Suggests: testthat (>= 2.1.0), knitr, rmarkdown
+License: MIT + file LICENSE
+MD5sum: e7072b55e0befab555844ade5482c5d9
 NeedsCompilation: no
