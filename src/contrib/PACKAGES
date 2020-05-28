@@ -10,7 +10,7 @@ LinkingTo: BH (>= 1.66.0), Rcpp (>= 0.12.0), RcppEigen (>= 0.3.3.3.0),
 Suggests: dplyr, tidyr, knitr, kableExtra, here, magrittr, countrycode,
         rnaturalearth, rnaturalearthdata, rnaturalearthhires
 License: MIT + file LICENSE
-MD5sum: a3de3c9340fdef02bf4dbcf959d90610
+MD5sum: 01ddff9feb2147af74d0e36f8863637a
 NeedsCompilation: yes
 
 Package: EpiSoon
