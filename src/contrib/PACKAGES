@@ -47,8 +47,9 @@ NeedsCompilation: no
 
 Package: scoringutils
 Version: 0.1.0
-Imports: ggplot2, goftest , scoringRules, stats
+Depends: R (>= 2.10)
+Imports: data.table, goftest, graphics, scoringRules, stats
 Suggests: testthat, knitr, rmarkdown
 License: MIT + file LICENSE
-MD5sum: 7e6132c0394d62e1573c39f815e0eac5
+MD5sum: 477922e9ea8f3d692b9ab2646e9e6202
 NeedsCompilation: no
