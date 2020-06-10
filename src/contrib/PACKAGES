@@ -51,5 +51,5 @@ Depends: R (>= 2.10)
 Imports: data.table, goftest, graphics, scoringRules, stats
 Suggests: testthat, knitr, rmarkdown
 License: MIT + file LICENSE
-MD5sum: 27752e6819736837e856fc6e719e80f9
+MD5sum: 14c802edf0dff1b7d9675f1fbf9a96c3
 NeedsCompilation: no
