@@ -1,3 +1,14 @@
+Package: covidregionaldata
+Version: 0.4.0
+Depends: R (>= 2.10)
+Imports: readr, dplyr, tibble, purrr, stringr, magrittr, memoise,
+        lubridate, data.table, tidyr, httr, yaml, readxl, R.utils,
+        xml2, rvest, janitor, jsonlite, reshape2
+Suggests: pkgdown, testthat
+License: MIT + file LICENSE
+MD5sum: f142ccf6af57db51b181178941419acd
+NeedsCompilation: no
+
 Package: EpiNow
 Version: 0.3.0
 Depends: R (>= 3.4.0)
