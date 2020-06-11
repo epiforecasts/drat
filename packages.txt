@@ -1,5 +1,5 @@
 epiforecasts/EpiSoon@master
 epiforecasts/EpiNow@master
-epiforecasts/NCoVUtils@master
+epiforecasts/covidregionaldata@master
 epiforecasts/qra@master
 epiforecasts/scoringutils@master 
