@@ -53,7 +53,7 @@ Version: 0.0.0.9000
 Imports: dplyr, future.apply, nloptr, readr, rlang, scoringutils,
         tidyr, tidyselect, purrr
 License: MIT + file LICENSE
-MD5sum: c8174155a17d8457d5d8b9aafef7abb9
+MD5sum: ca4550a73cac46cb13e8699ac2800f77
 NeedsCompilation: no
 
 Package: scoringutils
