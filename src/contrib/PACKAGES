@@ -34,7 +34,7 @@ Suggests: knitr, rmarkdown, fabletools, tsibble, forecastHybrid,
         forecast, fable, bsts, feasts, future.apply, stackr, brms,
         tidybayes, testthat
 License: MIT + file LICENSE
-MD5sum: 1d9e805fc505bb9b969b7b3cff98e46c
+MD5sum: 508c2ac473a6614abe0e6824e1251a68
 NeedsCompilation: no
 
 Package: NCoVUtils
