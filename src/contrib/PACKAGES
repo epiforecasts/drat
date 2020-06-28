@@ -3,10 +3,10 @@ Version: 0.4.0
 Depends: R (>= 2.10)
 Imports: readr, dplyr, tibble, purrr, stringr, magrittr, memoise,
         lubridate, data.table, tidyr, httr, yaml, readxl, R.utils,
-        xml2, rvest, janitor, jsonlite, reshape2
+        xml2, rvest, janitor, jsonlite, reshape2, countrycode
 Suggests: pkgdown, testthat
 License: MIT + file LICENSE
-MD5sum: b94eb07de73d61187e54f7bc26c99cc4
+MD5sum: b6bcfb7a9d78a7b9c8723eb0c0751eb8
 NeedsCompilation: no
 
 Package: EpiNow
