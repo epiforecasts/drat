@@ -28,7 +28,7 @@ Package: EpiNow2
 Version: 0.3.0
 Depends: R (>= 3.4.0)
 Imports: EpiSoon, data.table, purrr, Rcpp (>= 0.12.0), rstan (>=
-        2.18.1), rstantools (>= 2.0.0), methods, loo, HDInterval,
+        2.18.1), rstantools (>= 2.0.0), methods, HDInterval,
         future.apply, stringr, lubridate, ggplot2, cowplot, patchwork,
         R.devices, truncnorm
 LinkingTo: BH (>= 1.66.0), Rcpp (>= 0.12.0), RcppEigen (>= 0.3.3.3.0),
@@ -36,7 +36,7 @@ LinkingTo: BH (>= 1.66.0), Rcpp (>= 0.12.0), RcppEigen (>= 0.3.3.3.0),
 Suggests: dplyr, tidyr, knitr, kableExtra, here, magrittr, countrycode,
         rnaturalearth, rnaturalearthdata, rnaturalearthhires, rmarkdown
 License: MIT + file LICENSE
-MD5sum: 03d77dda13d6a79fadeb5840afbac6e0
+MD5sum: db5a510b3d3769a6224190b647f3454e
 NeedsCompilation: yes
 
 Package: EpiSoon
