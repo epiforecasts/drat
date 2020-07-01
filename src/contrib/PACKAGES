@@ -72,10 +72,10 @@ MD5sum: 7947852fc69de612ca3691e58a484882
 NeedsCompilation: no
 
 Package: scoringutils
-Version: 0.1.0
+Version: 0.1.1
 Depends: R (>= 2.10)
 Imports: data.table, goftest, graphics, scoringRules, stats
 Suggests: testthat, knitr, rmarkdown
 License: MIT + file LICENSE
-MD5sum: 21d1865e987fd1133df459a538dcdbad
+MD5sum: 878c8949ccc169e61525943c8bfd634b
 NeedsCompilation: no
