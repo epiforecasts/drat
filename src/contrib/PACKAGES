@@ -36,7 +36,7 @@ Suggests: EpiSoon, dplyr, tidyr, knitr, kableExtra, here, magrittr,
         countrycode, rnaturalearth, rnaturalearthdata,
         rnaturalearthhires, rmarkdown
 License: MIT + file LICENSE
-MD5sum: 3a044711e1fc3afb4bf9f83e16215893
+MD5sum: 2d5a2f4148675ab904113e20461b8308
 NeedsCompilation: yes
 
 Package: EpiSoon
