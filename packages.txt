@@ -4,3 +4,4 @@ epiforecasts/EpiNow2@master
 epiforecasts/covidregionaldata@master
 epiforecasts/qra@master
 epiforecasts/scoringutils@master 
+epiforecasts/stackr@master
