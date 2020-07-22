@@ -43,13 +43,13 @@ Package: EpiSoon
 Version: 0.3.0
 Depends: R (>= 3.3.0)
 Imports: scoringutils, scoringRules, purrr, furrr, magrittr, dplyr,
-        tidyr, rlang, tibble, lubridate, ggplot2, cowplot, HDInterval,
-        R.utils, data.table
+        tidyr, rlang, tibble, data.table, lubridate, ggplot2, cowplot,
+        HDInterval, R.utils
 Suggests: knitr, rmarkdown, fabletools, tsibble, forecastHybrid,
         forecast, fable, bsts, feasts, future.apply, stackr, brms,
         tidybayes, testthat
 License: MIT + file LICENSE
-MD5sum: 508c2ac473a6614abe0e6824e1251a68
+MD5sum: 71ab18bc0b60cfcf860fd2df6caec37d
 NeedsCompilation: no
 
 Package: NCoVUtils
@@ -69,6 +69,33 @@ Imports: dplyr, future.apply, nloptr, readr, rlang, scoringutils,
         tidyr, tidyselect, purrr
 License: MIT + file LICENSE
 MD5sum: ebedabddcc25918630691a5f66da6ca1
+NeedsCompilation: no
+
+Package: scoringutils
+Version: 0.0.0.9000
+Imports: ggplot2 (>= 3.2.0), goftest (>= 1.2-2), scoringRules (>=
+        1.0.0), stats (>= 3.6.0)
+Suggests: testthat (>= 2.1.0), knitr, rmarkdown
+License: MIT + file LICENSE
+MD5sum: e7072b55e0befab555844ade5482c5d9
+NeedsCompilation: no
+
+Package: scoringutils
+Version: 0.1.0
+Depends: R (>= 2.10)
+Imports: data.table, goftest, graphics, scoringRules, stats
+Suggests: testthat, knitr, rmarkdown
+License: MIT + file LICENSE
+MD5sum: 21d1865e987fd1133df459a538dcdbad
+NeedsCompilation: no
+
+Package: scoringutils
+Version: 0.1.1
+Depends: R (>= 2.10)
+Imports: data.table, goftest, graphics, scoringRules, stats
+Suggests: testthat, knitr, rmarkdown
+License: MIT + file LICENSE
+MD5sum: 878c8949ccc169e61525943c8bfd634b
 NeedsCompilation: no
 
 Package: scoringutils
