@@ -6,7 +6,7 @@ Imports: readr, dplyr, tibble, purrr, stringr, magrittr, memoise,
         xml2, rvest, janitor, jsonlite, reshape2, countrycode
 Suggests: pkgdown, testthat
 License: MIT + file LICENSE
-MD5sum: b6bcfb7a9d78a7b9c8723eb0c0751eb8
+MD5sum: 0bec260ee1aad60be40a9674af3c8f72
 NeedsCompilation: no
 
 Package: EpiNow
