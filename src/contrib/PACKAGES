@@ -9,6 +9,17 @@ License: MIT + file LICENSE
 MD5sum: 0bec260ee1aad60be40a9674af3c8f72
 NeedsCompilation: no
 
+Package: covidregionaldata
+Version: 0.5.0
+Depends: R (>= 2.10)
+Imports: readr, dplyr, tibble, purrr, stringr, magrittr, memoise,
+        lubridate, tidyr, httr, yaml, readxl, xml2, rvest, jsonlite,
+        countrycode
+Suggests: data.table, pkgdown, testthat, spelling
+License: MIT + file LICENSE
+MD5sum: 41fb03910ef2c0aa2fe95b9b7a32e309
+NeedsCompilation: no
+
 Package: EpiNow
 Version: 0.3.0
 Depends: R (>= 3.4.0)
