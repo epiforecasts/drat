@@ -61,7 +61,7 @@ LinkingTo: BH (>= 1.66.0), Rcpp (>= 0.12.0), RcppEigen (>= 0.3.3.3.0),
 Suggests: spelling, EpiSoon, dplyr, tidyr, knitr, kableExtra, here,
         magrittr, countrycode, rnaturalearth, rmarkdown
 License: MIT + file LICENSE
-MD5sum: 0fa1d36d0059c84b37ceb5805eb1119f
+MD5sum: 249872cf2a903eebd528113dfd687cf0
 NeedsCompilation: yes
 
 Package: EpiSoon
