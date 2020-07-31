@@ -66,13 +66,15 @@ Version: 1.0.0
 Depends: R (>= 3.4.0)
 Imports: data.table, purrr, Rcpp (>= 0.12.0), rstan (>= 2.18.1),
         rstantools (>= 2.0.0), methods, stats, HDInterval, truncnorm,
-        stringr, lubridate, future.apply, ggplot2, cowplot, patchwork
+        stringr, lubridate, future.apply, ggplot2, scales, cowplot,
+        patchwork
 LinkingTo: BH (>= 1.66.0), Rcpp (>= 0.12.0), RcppEigen (>= 0.3.3.3.0),
         rstan (>= 2.18.1), StanHeaders (>= 2.18.0)
-Suggests: spelling, EpiSoon, dplyr, tidyr, knitr, kableExtra, here,
-        magrittr, countrycode, rnaturalearth, rmarkdown
+Suggests: spelling, EpiSoon, forecastHybrid, dplyr, tidyr, knitr,
+        kableExtra, here, magrittr, countrycode, rnaturalearth,
+        rmarkdown
 License: MIT + file LICENSE
-MD5sum: ca08de9f50a4494390ed420626e8cc6d
+MD5sum: 91c4d777117fa7e5f0cf41cf7a881c79
 NeedsCompilation: yes
 
 Package: EpiSoon
