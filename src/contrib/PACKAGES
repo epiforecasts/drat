@@ -142,7 +142,7 @@ Depends: R (>= 2.10)
 Imports: data.table, goftest, graphics, scoringRules, stats
 Suggests: testthat, knitr, rmarkdown
 License: MIT + file LICENSE
-MD5sum: bbf85791f5b298b8ba9f34a16d5d28b0
+MD5sum: f153c008bc270ce5b95173b952d9a5cd
 NeedsCompilation: no
 
 Package: stackr
