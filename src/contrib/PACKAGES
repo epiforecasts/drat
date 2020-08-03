@@ -90,7 +90,7 @@ Suggests: spelling, EpiSoon, forecastHybrid, dplyr, tidyr, knitr,
         kableExtra, here, magrittr, countrycode, rnaturalearth,
         rmarkdown
 License: MIT + file LICENSE
-MD5sum: 8f9f7f155cd94afc22c7172fa30a173a
+MD5sum: 9a16eff98bb476a10b0883d794076300
 NeedsCompilation: yes
 
 Package: EpiSoon
