@@ -24,11 +24,11 @@ Package: covidregionaldata
 Version: 0.6.0
 Depends: R (>= 2.10)
 Imports: readr, dplyr, tibble, purrr, stringr, magrittr, memoise,
-        lubridate, tidyr, httr, yaml, readxl, xml2, rvest, jsonlite,
-        countrycode
+        lubridate, tidyr (>= 1.0.0), httr, yaml, readxl, xml2, rvest,
+        jsonlite, countrycode
 Suggests: data.table, pkgdown, testthat, spelling
 License: MIT + file LICENSE
-MD5sum: 0ecefff3a0c5269fb4abc5f881f8b9d9
+MD5sum: 8eb1e87c8f53796b22c35111e5a3b7a1
 NeedsCompilation: no
 
 Package: EpiNow
