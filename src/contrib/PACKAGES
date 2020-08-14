@@ -80,16 +80,17 @@ NeedsCompilation: yes
 Package: EpiNow2
 Version: 1.1.0
 Depends: R (>= 3.4.0)
-Imports: data.table, purrr, Rcpp (>= 0.12.0), rstan (>= 2.18.1),
-        rstantools (>= 2.0.0), methods, stats, HDInterval, truncnorm,
-        lubridate, future.apply, ggplot2, scales, cowplot, patchwork
+Imports: cowplot, data.table, futile.logger (>= 1.4), future.apply,
+        ggplot2, HDInterval, lubridate, methods, patchwork, purrr, Rcpp
+        (>= 0.12.0), rstan (>= 2.18.1), rstantools (>= 2.0.0), scales,
+        stats, truncnorm,
 LinkingTo: BH (>= 1.66.0), Rcpp (>= 0.12.0), RcppEigen (>= 0.3.3.3.0),
         rstan (>= 2.21.1), StanHeaders (>= 2.21.0-5)
-Suggests: spelling, EpiSoon, forecastHybrid, dplyr, tidyr, knitr,
-        kableExtra, here, magrittr, countrycode, rnaturalearth,
-        rmarkdown
+Suggests: countrycode, dplyr, EpiSoon, forecastHybrid, here,
+        kableExtra, knitr, magrittr, rmarkdown, rnaturalearth,
+        spelling, tidyr,
 License: MIT + file LICENSE
-MD5sum: 0dd1712bafd8da1e2edc49d2b1770ffa
+MD5sum: 4c34f0f4af185903cc6b64c30b71cc0a
 NeedsCompilation: yes
 
 Package: EpiSoon
