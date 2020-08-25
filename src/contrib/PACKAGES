@@ -28,7 +28,7 @@ Imports: readr, dplyr, tibble, purrr, stringr, magrittr, memoise,
         jsonlite, countrycode
 Suggests: data.table, pkgdown, testthat, spelling
 License: MIT + file LICENSE
-MD5sum: 43ffe03c9a192f69a66d442bc00c21c4
+MD5sum: 25e01b6f8b1b6251030350718e555ef9
 NeedsCompilation: no
 
 Package: EpiNow
