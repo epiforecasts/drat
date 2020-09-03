@@ -1,6 +1,7 @@
 epiforecasts/EpiSoon@master
 epiforecasts/EpiNow@master
 epiforecasts/EpiNow2@master
+epiforecasts/RtD3@master
 epiforecasts/covidregionaldata@master
 epiforecasts/scoringutils@master 
 epiforecasts/stackr@master
