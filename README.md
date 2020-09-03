@@ -16,13 +16,13 @@ Now you can use {drat} to register the EpiForecast repository as a valid reposit
 drat:::add("epiforecasts")
 ```
 
-Now you can install any of the EpiForecast packages:
+Now you can install any of the EpiForecast development packages:
 
 ```r
+install.packages("EpiNow2")
+install.packages("RtD3")
 install.packages("EpiSoon")
-install.packages("EpiNow")
-install.packages("NoCoVUtils")
-install.packages("qra")
+install.packages("covidregionaldata")
 install.packages("scoringutils")
 ```
 
