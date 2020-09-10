@@ -146,7 +146,7 @@ Version: 0.0.0.9000
 Imports: jsonlite, htmlwidgets, geojsonsf, sf, knitr, data.table
 Suggests: testthat, covr
 License: MIT + file LICENSE
-MD5sum: 7c348fb65e50ed16331c74d8edec0b3a
+MD5sum: 08c5c8000d16ea745f9efa7096cfc726
 NeedsCompilation: no
 
 Package: scoringutils
