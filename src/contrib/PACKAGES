@@ -106,7 +106,7 @@ Suggests: countrycode, dplyr, EpiSoon, forecastHybrid, here,
         kableExtra, knitr, magrittr, rmarkdown, rnaturalearth,
         spelling, tidyr,
 License: MIT + file LICENSE
-MD5sum: 90a1943e4ec83c539745086d48af62a5
+MD5sum: 3854f73f3bccb8b6ac26aa549c435c8e
 NeedsCompilation: yes
 
 Package: EpiSoon
