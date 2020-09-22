@@ -149,6 +149,14 @@ License: MIT + file LICENSE
 MD5sum: 6a7d1e0d7d9977570d70622e19060866
 NeedsCompilation: no
 
+Package: RtD3
+Version: 0.0.1
+Imports: jsonlite, htmlwidgets, geojsonsf, data.table, purrr
+Suggests: testthat, knitr, covr, dplyr, sf, rgeos, rnaturalearth
+License: MIT + file LICENSE
+MD5sum: c8f5d610e1803b6bae93abfbb2740b32
+NeedsCompilation: no
+
 Package: scoringutils
 Version: 0.0.0.9000
 Imports: ggplot2 (>= 3.2.0), goftest (>= 1.2-2), scoringRules (>=
