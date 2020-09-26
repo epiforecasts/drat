@@ -115,9 +115,9 @@ LinkingTo: BH (>= 1.66.0), Rcpp (>= 0.12.0), RcppEigen (>= 0.3.3.3.0),
         rstan (>= 2.21.1), StanHeaders (>= 2.21.0-5)
 Suggests: countrycode, dplyr, EpiSoon, forecastHybrid, here,
         kableExtra, knitr, magrittr, rmarkdown, rnaturalearth,
-        spelling, tidyr,
+        spelling, tidyr, testthat
 License: MIT + file LICENSE
-MD5sum: 8d820e7cf71b72d20ab20cd694f617b4
+MD5sum: c38e20bc7ea07ea989615dc329469560
 NeedsCompilation: yes
 
 Package: EpiSoon
