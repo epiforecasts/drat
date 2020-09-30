@@ -117,7 +117,7 @@ Suggests: countrycode, dplyr, EpiSoon, forecastHybrid, here,
         kableExtra, knitr, magrittr, rmarkdown, rnaturalearth,
         spelling, tidyr, testthat
 License: MIT + file LICENSE
-MD5sum: 657879f77edb60e404920542d462f30f
+MD5sum: c4d3a60be07a4f002fbab0a4fb0551ed
 NeedsCompilation: yes
 
 Package: EpiSoon
