@@ -121,6 +121,22 @@ License: MIT + file LICENSE
 MD5sum: 542826d0ec485e93f43a13220da74cc0
 NeedsCompilation: yes
 
+Package: EpiNow2
+Version: 1.2.1
+Depends: R (>= 3.4.0)
+Imports: cowplot, data.table, futile.logger (>= 1.4), future,
+        future.apply, ggplot2, lubridate, methods, patchwork,
+        progressr, purrr, R.utils (>= 2.0.0), Rcpp (>= 0.12.0), rlang
+        (>= 0.4.7), rstan (>= 2.18.1), scales, stats, truncnorm,
+LinkingTo: BH (>= 1.66.0), Rcpp (>= 0.12.0), RcppEigen (>= 0.3.3.3.0),
+        rstan (>= 2.21.1), StanHeaders (>= 2.21.0-5)
+Suggests: countrycode, dplyr, EpiSoon, forecastHybrid, here,
+        kableExtra, knitr, magrittr, rmarkdown, rnaturalearth,
+        rstantools, spelling, tidyr, testthat
+License: MIT + file LICENSE
+MD5sum: 2a7ac2fffb42745253b525fb68c507dd
+NeedsCompilation: yes
+
 Package: EpiSoon
 Version: 0.3.0
 Depends: R (>= 3.3.0)
