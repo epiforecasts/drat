@@ -54,7 +54,7 @@ LinkingTo: BH (>= 1.66.0), Rcpp (>= 0.12.0), RcppEigen (>= 0.3.3.3.0),
 Suggests: dplyr, tidyr, knitr, kableExtra, here, magrittr, countrycode,
         rnaturalearth, rnaturalearthdata, rnaturalearthhires, rmarkdown
 License: MIT + file LICENSE
-MD5sum: 6343e640ddbc68d9c7e2047af2ed5b83
+MD5sum: 5e897d241880157f44d72d8694ab7cb3
 NeedsCompilation: yes
 
 Package: EpiNow2
