@@ -182,7 +182,7 @@ Version: 0.0.1
 Imports: jsonlite, htmlwidgets, geojsonsf, data.table, purrr
 Suggests: testthat, knitr, covr, dplyr, sf, rgeos, rnaturalearth
 License: MIT + file LICENSE
-MD5sum: a7fe90f080628123dd1b27f185138c70
+MD5sum: 3e4eff0f3c3bc559287c87a51139d2e7
 NeedsCompilation: no
 
 Package: scoringutils
