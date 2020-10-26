@@ -180,9 +180,10 @@ NeedsCompilation: no
 Package: RtD3
 Version: 0.0.1
 Imports: jsonlite, htmlwidgets, geojsonsf, data.table, purrr
-Suggests: testthat, knitr, covr, dplyr, sf, rgeos, rnaturalearth
+Suggests: testthat, spelling, knitr, covr, dplyr, sf, rgeos,
+        rnaturalearth
 License: MIT + file LICENSE
-MD5sum: 3e4eff0f3c3bc559287c87a51139d2e7
+MD5sum: b17f73eac99ae9e4f57e1359982fa1d1
 NeedsCompilation: no
 
 Package: scoringutils
