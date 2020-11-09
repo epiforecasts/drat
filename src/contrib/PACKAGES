@@ -231,7 +231,7 @@ Imports: jsonlite, htmlwidgets, geojsonsf, data.table, purrr
 Suggests: testthat, spelling, knitr, covr, dplyr, sf, rgeos,
         rnaturalearth
 License: MIT + file LICENSE
-MD5sum: b17f73eac99ae9e4f57e1359982fa1d1
+MD5sum: a83b2e5d5e47c89c4483f59d27600084
 NeedsCompilation: no
 
 Package: scoringutils
