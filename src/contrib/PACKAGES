@@ -180,9 +180,9 @@ LinkingTo: BH (>= 1.66.0), Rcpp (>= 0.12.0), RcppEigen (>= 0.3.3.3.0),
         rstan (>= 2.21.1), StanHeaders (>= 2.21.0-5)
 Suggests: countrycode, dplyr, EpiSoon, forecastHybrid, here,
         kableExtra, knitr, magrittr, rmarkdown, rnaturalearth,
-        rstantools, spelling, tidyr, testthat
+        rstantools, spelling, tidyr, testthat, covr
 License: MIT + file LICENSE
-MD5sum: fb2e14e258a9d5f384b2e8e4c8ad8af8
+MD5sum: 2e3ce55fcf99672748a59fd41095aee1
 NeedsCompilation: yes
 
 Package: EpiSoon
