@@ -310,7 +310,7 @@ Imports: data.table, forcats, ggplot2, goftest, graphics, scoringRules,
         stats
 Suggests: testthat, knitr, rmarkdown
 License: MIT + file LICENSE
-MD5sum: 083ea7ae6051bb76324921ea81740dc5
+MD5sum: 6096aefe0f1ae9701bf1e1fb642a2328
 NeedsCompilation: no
 
 Package: stackr
