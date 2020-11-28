@@ -275,14 +275,14 @@ Imports: cowplot, data.table, futile.logger (>= 1.4), future,
         future.apply, ggplot2, lubridate, methods, patchwork,
         progressr, purrr, R.utils (>= 2.0.0), Rcpp (>= 0.12.0), rlang
         (>= 0.4.7), rstan (>= 2.21.1), runner, scales, stats,
-        truncnorm, lifecycle
+        truncnorm, lifecycle, utils
 LinkingTo: BH (>= 1.66.0), Rcpp (>= 0.12.0), RcppEigen (>= 0.3.3.3.0),
         rstan (>= 2.21.1), StanHeaders (>= 2.21.0-5)
 Suggests: countrycode, dplyr, EpiSoon, forecastHybrid, here,
         kableExtra, knitr, magrittr, rmarkdown, rnaturalearth,
         rstantools, spelling, tidyr, testthat, covr
 License: MIT + file LICENSE
-MD5sum: 79b6871f5a5dd400a79436b284ea2454
+MD5sum: 20d577f7dbbbc3149101cf616e8f3796
 NeedsCompilation: yes
 
 Package: EpiSoon
