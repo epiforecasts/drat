@@ -299,7 +299,7 @@ Suggests: countrycode, dplyr, EpiSoon, forecastHybrid, here,
         kableExtra, knitr, magrittr, rmarkdown, rnaturalearth,
         rstantools, spelling, tidyr, testthat, covr
 License: MIT + file LICENSE
-MD5sum: 8420399e4e50b51e4d5a78a8bae4bad4
+MD5sum: 64d252b7259c5f0f9d848f0714e7064a
 NeedsCompilation: yes
 
 Package: EpiSoon
