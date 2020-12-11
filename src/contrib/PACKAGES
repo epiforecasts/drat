@@ -70,9 +70,10 @@ Depends: R (>= 2.10)
 Imports: readr, dplyr, tibble, purrr, stringr, magrittr, memoise,
         lubridate, tidyr (>= 1.0.0), httr, yaml, readxl, xml2, rvest,
         jsonlite, countrycode
-Suggests: data.table, pkgdown, testthat, spelling
+Suggests: data.table, pkgdown, testthat, spelling, knitr, rmarkdown,
+        rworldmap, ggplot2
 License: MIT + file LICENSE
-MD5sum: 242905e7f7176941e4e48cd4c8de56db
+MD5sum: b2b7e48b0c1080cc359b04b72ae90062
 NeedsCompilation: no
 
 Package: EpiNow
