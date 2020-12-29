@@ -395,9 +395,9 @@ LinkingTo: BH (>= 1.66.0), Rcpp (>= 0.12.0), RcppEigen (>= 0.3.3.3.0),
         rstan (>= 2.21.1), StanHeaders (>= 2.21.0-5)
 Suggests: countrycode, dplyr, EpiSoon, forecastHybrid, here,
         kableExtra, knitr, magrittr, rmarkdown, rnaturalearth,
-        rstantools, spelling, tidyr, testthat, covr
+        rstantools, spelling, styler, tidyr, testthat, covr
 License: MIT + file LICENSE
-MD5sum: a73840613d37f0752c99277ab330cf3b
+MD5sum: a73aa602c43b09e86b5ee4b5cf042f33
 NeedsCompilation: yes
 
 Package: EpiSoon
