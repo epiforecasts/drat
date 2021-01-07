@@ -85,7 +85,7 @@ Imports: readr, dplyr, tibble, purrr, stringr, magrittr, memoise,
 Suggests: data.table, pkgdown, testthat, spelling, knitr, rmarkdown,
         rworldmap, ggplot2
 License: MIT + file LICENSE
-MD5sum: 3e01b414766807546ce39d2849ef143b
+MD5sum: 2d954f39011d9d2595c37b5cbd0fb815
 NeedsCompilation: no
 
 Package: EpiNow
