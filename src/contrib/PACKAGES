@@ -79,13 +79,13 @@ NeedsCompilation: no
 Package: covidregionaldata
 Version: 0.8.3
 Depends: R (>= 2.10)
-Imports: readr, dplyr, tibble, purrr, stringr, magrittr, memoise,
-        lubridate, tidyr (>= 1.0.0), httr, yaml, readxl, xml2, rvest,
-        jsonlite, countrycode
+Imports: readr, vroom, dplyr, tibble, purrr, stringr, magrittr,
+        memoise, lubridate, tidyr (>= 1.0.0), httr, yaml, readxl, xml2,
+        rvest, jsonlite, countrycode
 Suggests: data.table, pkgdown, testthat, spelling, knitr, rmarkdown,
         rworldmap, ggplot2
 License: MIT + file LICENSE
-MD5sum: dbea6cafd91b270aefb03a3b1536c0ac
+MD5sum: 019d1268fa7d89dc72689a566f52a46c
 NeedsCompilation: no
 
 Package: EpiNow
