@@ -1,3 +1,13 @@
+Package: covid19.nhs.data
+Version: 0.1.0
+Depends: R (>= 2.10)
+Imports: lubridate, dplyr, magrittr, RCurl, readxl, purrr, tibble,
+        tidyr, ggplot2, utils, sf
+Suggests: janitor, here, knitr, spelling, usethis, rmarkdown, covr
+License: MIT + file LICENSE
+MD5sum: 579d3698427e275680c2eb3270b5b60e
+NeedsCompilation: no
+
 Package: covidregionaldata
 Version: 0.4.0
 Depends: R (>= 2.10)
