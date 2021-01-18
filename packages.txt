@@ -3,6 +3,6 @@ epiforecasts/EpiNow@master
 epiforecasts/EpiNow2@master
 epiforecasts/RtD3@master
 epiforecasts/covidregionaldata@master
-epiforecasts/covid19.nhs.data@master
+epiforecasts/covid19.nhs.data@main
 epiforecasts/scoringutils@master 
 epiforecasts/stackr@master
