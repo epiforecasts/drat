@@ -5,7 +5,7 @@ Imports: lubridate, dplyr, magrittr, RCurl, readxl, purrr, tibble,
         tidyr, ggplot2, utils, sf
 Suggests: janitor, here, knitr, spelling, usethis, rmarkdown, covr
 License: MIT + file LICENSE
-MD5sum: 579d3698427e275680c2eb3270b5b60e
+MD5sum: a40bc5f8330fd2dbbc07ce7c19eea247
 NeedsCompilation: no
 
 Package: covidregionaldata
