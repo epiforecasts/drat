@@ -555,6 +555,16 @@ License: MIT + file LICENSE
 MD5sum: 127e753d342e6f6268d86535bf4265d0
 NeedsCompilation: no
 
+Package: scoringutils
+Version: 0.1.7
+Depends: R (>= 2.10)
+Imports: data.table, forcats, ggplot2, goftest, graphics, scoringRules,
+        stats, methods
+Suggests: testthat, knitr, rmarkdown
+License: MIT + file LICENSE
+MD5sum: 22581f3643691c61c145f503f87bd1c0
+NeedsCompilation: no
+
 Package: stackr
 Version: 0.1.0
 Depends: R (>= 3.4.0)
