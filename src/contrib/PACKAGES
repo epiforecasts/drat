@@ -3,9 +3,10 @@ Version: 0.1.0
 Depends: R (>= 2.10)
 Imports: lubridate, dplyr, magrittr, RCurl, readxl, purrr, tibble,
         tidyr, ggplot2, utils, sf
-Suggests: janitor, here, knitr, spelling, usethis, rmarkdown, covr
+Suggests: janitor, here, knitr, spelling, usethis, rmarkdown, readr,
+        covr
 License: MIT + file LICENSE
-MD5sum: 33f521fac04ed000a7f24f378359aef4
+MD5sum: b783daac3575b5f45ea5229e35f672be
 NeedsCompilation: no
 
 Package: covidregionaldata
