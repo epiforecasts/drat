@@ -6,7 +6,7 @@ Imports: lubridate, dplyr, magrittr, RCurl, readxl, purrr, tibble,
 Suggests: janitor, here, knitr, spelling, usethis, rmarkdown, readr,
         covr
 License: MIT + file LICENSE
-MD5sum: b783daac3575b5f45ea5229e35f672be
+MD5sum: 942cac970abdc2ac863ec3f89a1d5845
 NeedsCompilation: no
 
 Package: covidregionaldata
