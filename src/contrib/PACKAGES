@@ -562,7 +562,7 @@ Imports: data.table, forcats, ggplot2, goftest, graphics, scoringRules,
         stats, methods
 Suggests: testthat, knitr, rmarkdown
 License: MIT + file LICENSE
-MD5sum: 6a5fda4fc25cf8d87b3de33704f875bf
+MD5sum: 803056c8caa6673de155467ffb9621cc
 NeedsCompilation: no
 
 Package: stackr
