@@ -100,6 +100,18 @@ MD5sum: e13b44ceed9ab39bf85aa44e63989ea4
 NeedsCompilation: no
 
 Package: covidregionaldata
+Version: 0.8.3.2
+Depends: R (>= 2.10)
+Imports: vroom, dplyr, tibble, purrr, stringr, magrittr, memoise,
+        lubridate, tidyr (>= 1.0.0), httr, yaml, readxl, xml2, rvest,
+        readr, jsonlite, countrycode, tidyselect, rlang
+Suggests: data.table, pkgdown, testthat, spelling, knitr, rmarkdown,
+        rworldmap, ggplot2
+License: MIT + file LICENSE
+MD5sum: ffe3235643c7b1ddbf5b9badf5600065
+NeedsCompilation: no
+
+Package: covidregionaldata
 Version: 0.8.3
 Depends: R (>= 2.10)
 Imports: readr, vroom, dplyr, tibble, purrr, stringr, magrittr,
