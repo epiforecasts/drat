@@ -104,11 +104,11 @@ Version: 0.8.3.2
 Depends: R (>= 2.10)
 Imports: vroom, dplyr, tibble, purrr, stringr, magrittr, memoise,
         lubridate, tidyr (>= 1.0.0), httr, yaml, readxl, xml2, rvest,
-        readr, jsonlite, countrycode, tidyselect, rlang
+        readr, jsonlite, countrycode (>= 1.2.0), tidyselect, rlang
 Suggests: data.table, pkgdown, testthat, spelling, knitr, rmarkdown,
         rworldmap, ggplot2
 License: MIT + file LICENSE
-MD5sum: 742cc0bb116df28d37dbb84da48b6c84
+MD5sum: aadd0b0191b950710d4c9b25388a52f8
 NeedsCompilation: no
 
 Package: covidregionaldata
