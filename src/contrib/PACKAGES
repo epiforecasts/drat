@@ -108,7 +108,7 @@ Imports: vroom, dplyr, tibble, purrr, stringr, magrittr, memoise,
 Suggests: data.table, pkgdown, testthat, spelling, knitr, rmarkdown,
         rworldmap, ggplot2
 License: MIT + file LICENSE
-MD5sum: 7cd2c122cdb6d05941822071cca9f3f7
+MD5sum: 9753bd6f2c80e86c9ecf00c6240f1ca1
 NeedsCompilation: no
 
 Package: covidregionaldata
