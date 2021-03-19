@@ -466,7 +466,7 @@ Suggests: countrycode, covr, dplyr, EpiSoon, forecastHybrid, here,
         kableExtra, knitr, magrittr, precommit, rmarkdown,
         rnaturalearth, rstantools, spelling, styler, testthat, tidyr
 License: MIT + file LICENSE
-MD5sum: 3081db6fd0b424046142dc1d2e68bef8
+MD5sum: a6b1f6640983432468b2e0291905e997
 NeedsCompilation: yes
 
 Package: EpiSoon
