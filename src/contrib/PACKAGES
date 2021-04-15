@@ -128,11 +128,11 @@ Version: 0.9.0
 Depends: R (>= 3.5.0)
 Imports: countrycode (>= 1.2.0), dplyr, httr, lifecycle, lubridate,
         magrittr, memoise, purrr, R6, readxl, rlang, rvest, stringr,
-        tibble, tidyr (>= 1.0.0), tidyselect, vroom, xml2
+        tibble, tidyr (>= 1.0.0), tidyselect, vroom, withr, xml2
 Suggests: ggplot2, knitr, mockery, pkgdown, rmarkdown, rworldmap,
         spelling, testthat (>= 3.0.0), usethis
 License: MIT + file LICENSE
-MD5sum: 9eed54cce29aa7f4e3b5886ba1274121
+MD5sum: a87e848e1c93ead01348b2f76a68ddf5
 NeedsCompilation: no
 
 Package: EpiNow
