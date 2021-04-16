@@ -132,7 +132,7 @@ Imports: countrycode (>= 1.2.0), dplyr, httr, lifecycle, lubridate,
 Suggests: ggplot2, knitr, mockery, pkgdown, rmarkdown, rworldmap,
         spelling, testthat (>= 3.0.0), usethis
 License: MIT + file LICENSE
-MD5sum: a87e848e1c93ead01348b2f76a68ddf5
+MD5sum: 21e2d0ed04c7a48abb6ef3be37d7515a
 NeedsCompilation: no
 
 Package: EpiNow
