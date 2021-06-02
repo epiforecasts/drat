@@ -204,7 +204,7 @@ Imports: countrycode (>= 1.2.0), dplyr, httr, lifecycle, lubridate,
 Suggests: ggplot2, knitr, mockery, pkgdown, rmarkdown, rvest,
         rworldmap, spelling, testthat (>= 3.0.0), usethis
 License: MIT + file LICENSE
-MD5sum: a9360627b67769b45ba21a22676346b9
+MD5sum: f4b228702ef61c6136f10ebef6080f81
 NeedsCompilation: no
 
 Package: EpiNow
