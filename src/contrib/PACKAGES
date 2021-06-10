@@ -581,7 +581,7 @@ Suggests: countrycode, covr, dplyr, EpiSoon, forecastHybrid, here,
         kableExtra, knitr, magrittr, precommit, rmarkdown,
         rnaturalearth, rstantools, spelling, styler, testthat, tidyr
 License: MIT + file LICENSE
-MD5sum: 3866fb72c7eedc04d20dfb42db24826a
+MD5sum: e3ca8532f6e564f5071b2305e5b8574d
 NeedsCompilation: yes
 
 Package: EpiSoon
