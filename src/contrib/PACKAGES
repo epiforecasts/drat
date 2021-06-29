@@ -225,10 +225,10 @@ Depends: R (>= 3.5.0)
 Imports: countrycode (>= 1.2.0), dplyr, httr, lifecycle, lubridate,
         magrittr, memoise, purrr, R6, readxl, rlang, stringr, tibble,
         tidyr (>= 1.0.0), tidyselect, vroom, withr, xml2
-Suggests: ggplot2, knitr, mockery, pkgdown, rmarkdown, rvest,
-        rworldmap, sf, spelling, testthat (>= 3.0.0), usethis
+Suggests: ggplot2, ggspatial, knitr, mockery, pkgdown, rmarkdown,
+        rvest, rworldmap, sf, spelling, testthat (>= 3.0.0), usethis
 License: MIT + file LICENSE
-MD5sum: d1f306bced7c0e8c182cf27b4ac7166f
+MD5sum: 12a4f55de0468457b71d0d3d52bff5a6
 NeedsCompilation: no
 
 Package: EpiNow
