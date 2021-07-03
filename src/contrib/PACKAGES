@@ -240,7 +240,7 @@ Imports: countrycode (>= 1.2.0), dplyr, httr, lifecycle, lubridate,
 Suggests: ggplot2, ggspatial, knitr, mockery, pkgdown, rmarkdown,
         rvest, rworldmap, sf, spelling, testthat (>= 3.0.0), usethis
 License: MIT + file LICENSE
-MD5sum: 3b89f30c60e26a3abef7d4d7ec0d303c
+MD5sum: c6356d9083ad7ee73ba0f6aaed048e50
 NeedsCompilation: no
 
 Package: EpiNow
