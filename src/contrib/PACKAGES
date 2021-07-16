@@ -192,7 +192,7 @@ Imports: countrycode (>= 1.2.0), dplyr, httr, lifecycle, lubridate,
 Suggests: ggplot2, ggspatial, knitr, mockery, pkgdown, rmarkdown,
         rvest, rworldmap, sf, spelling, testthat (>= 3.0.0), usethis
 License: MIT + file LICENSE
-MD5sum: 4b509a2015fd4dd57567d755b4e104f4
+MD5sum: e09da0138e1fdbd5c7ee0fd821bb1162
 NeedsCompilation: no
 
 Package: covidregionaldata
