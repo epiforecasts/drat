@@ -776,11 +776,11 @@ NeedsCompilation: no
 Package: scoringutils
 Version: 0.1.7
 Depends: R (>= 2.10)
-Imports: data.table, forcats, ggplot2, goftest, graphics, scoringRules,
-        stats, methods
+Imports: data.table, forcats, ggplot2, goftest, scoringRules, stats,
+        methods
 Suggests: testthat, knitr, rmarkdown
 License: MIT + file LICENSE
-MD5sum: 39b31402dcf08e839d0baac010621187
+MD5sum: 33cbf1589b370ea1c1853059c30d4ae2
 NeedsCompilation: no
 
 Package: stackr
