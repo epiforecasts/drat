@@ -774,6 +774,16 @@ MD5sum: 127e753d342e6f6268d86535bf4265d0
 NeedsCompilation: no
 
 Package: scoringutils
+Version: 0.1.7.2
+Depends: R (>= 2.10)
+Imports: data.table, forcats, ggplot2, goftest, scoringRules, stats,
+        methods
+Suggests: testthat, knitr, rmarkdown
+License: MIT + file LICENSE
+MD5sum: 27fddbf002639307f3183d063f17195a
+NeedsCompilation: no
+
+Package: scoringutils
 Version: 0.1.7
 Depends: R (>= 2.10)
 Imports: data.table, forcats, ggplot2, goftest, scoringRules, stats,
