@@ -780,7 +780,7 @@ Imports: data.table, forcats, ggplot2, goftest, scoringRules, stats,
         methods
 Suggests: testthat, knitr, rmarkdown
 License: MIT + file LICENSE
-MD5sum: 8ff118cafcd3aeb1fdd8614dd72db803
+MD5sum: 5137e1b3d88b1019d417f3d4ff1cda9b
 NeedsCompilation: no
 
 Package: scoringutils
