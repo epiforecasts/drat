@@ -1,4 +1,4 @@
-# EpiForecasts Package Repository
+# EpiForecasts Package Repository (Archived)
 
 
 ![Build packages](https://github.com/epiforecasts/drat/workflows/Build%20packages/badge.svg)
